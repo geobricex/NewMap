@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083381706959",
+    "project_id": "newmap-85454",
+    "storage_bucket": "newmap-85454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083381706959:android:e09bfcb3387b763a53c7ba",
+        "android_client_info": {
+          "package_name": "com.example.newmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083381706959-1tu49dgt2272huv4gdcitheg7573lhni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMuTil9ulIH1a1GZaUQxVL2mEts7oRoRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083381706959-1tu49dgt2272huv4gdcitheg7573lhni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
